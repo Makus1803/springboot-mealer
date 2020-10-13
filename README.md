@@ -1,6 +1,6 @@
-#Mealer - save shopping list
+# Mealer - save shopping list
 
-#####Simple application that allows you to search through API, save dishes with needed ingredients created with Spring Boot, Vaadin and MongoDB
+##### Simple application that allows you to search through API, save dishes with needed ingredients created with Spring Boot, Vaadin and MongoDB
 
 ### Table of contents
 * [General info](#general-info)
