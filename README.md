@@ -27,5 +27,5 @@ Tests were written to check registration payload.
 To run the application, specify the path to the MongoDB database in the application.properties file
 The application can then be run using the 
 ```
-mvn spring-boot
+mvn spring-boot:run
 ```
